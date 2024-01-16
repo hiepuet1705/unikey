@@ -1,0 +1,20 @@
+INT3302 1 
+Hệ quản trị cơ sở dữ liệu ( prio)
+INT3302 2
+Hệ quản trị cơ sở dữ liệu
+INT3110 2
+OOAD
+PES1035 1 
+(prior)
+PES1030 2 
+bong ban
+INT3105 1
+(prior)
+Kiến trúc pm
+INT3111 1
+(prior)
+Quản lý dự án
+INT3506 1 
+Thương mại đt
+INT3216 1 
+Phân tích đánh giá hiệu năng hệ thống
